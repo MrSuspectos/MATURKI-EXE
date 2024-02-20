@@ -9,10 +9,13 @@ for line in file:
     liczby += line
     liczby2 += oct(int(line))
 
-for i in liczby:
-    liczba6dziesiestnie += str(i).count('6')
-for i in liczby2:
-    liczba6osemkowo += str(i).count('6')
+liczba6dziesiestnie = liczby.count('6')
+liczba6osemkowo = liczby2.count('6')
+# XDD Kto to napisał
+# for i in liczby:
+#     liczba6dziesiestnie += str(i).count('6')
+# for i in liczby2:
+#     liczba6osemkowo += str(i).count('6')
 
 print('Liczby dziesietne:',liczba6dziesiestnie)
 print('Liczby osemkowo:',liczba6osemkowo)
