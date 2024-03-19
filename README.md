@@ -2,7 +2,7 @@
 No to robimy zadania z informatyki rozszerzonej XDD
 
 ### Polecenia na 2024
-- [Zagadnienia Teoria](Spiszagadnien_z_teorii.pdf)
+- [Zagadnienia Teoria](Spis_zagadnien_z_teorii.pdf)
 - [Spis algorytmów](Sugerowany_spis_algorytmow.pdf)
 
 ### Zbiór zadań informatyka (2015)
@@ -10,7 +10,7 @@ Zbiór z którego korzystałem --> [Zbiór zadań](https://github.com/MrSuspecto
 - [Zadanie 60 Dzielniki](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad%2060%20(Dzielniki))
 - [Zadanie 62 Liczby ósemkowe](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad62)
 - [Zadanie 63 Ciągi zerojedynkowe](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad63)
-- [Zadanie 64 Obrazki]()
+- [Zadanie 64 Obrazki](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad%2064%20(Obrazki))
 - [Zadanie 66 Trójki liczb](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad%2066%20(Tr%C3%B3jki%20liczb))
 - [Zadanie 68 Anagramy](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad%2068%20(Anagramy))
 - [Zadanie 73 Statystyki teksty](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad%2073%20(Statystyki%20tekstu))
@@ -43,5 +43,7 @@ Zbiór z którego korzystałem --> [Zbiór zadań](https://github.com/MrSuspecto
 ### 2023
 - [Arkusz CKE Maj](https://arkusze.pl/maturalne/informatyka-2023-maj-matura-rozszerzona.pdf)
 - [Rozwiązania CKE Maj 2023](CKE_Maj_23)
+- [Arkusz CKE Czerwiec](https://arkusze.pl/maturalne/informatyka-2023-czerwiec-matura-rozszerzona.pdf)
+- [Rozwiązania CKE Czerwiec 2023](CKE_Czerwiec_23)
 - Arkusz Operon (kiedyś zrobię jego skany)
 - [Rozwiązania Operon Listopad 2023](Operon23)
