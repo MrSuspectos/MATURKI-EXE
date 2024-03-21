@@ -41,6 +41,8 @@ Zbiór z którego korzystałem --> [Zbiór zadań](https://github.com/MrSuspecto
 - [Rozwiązania CKE Czerwiec 2020](CKE_Czerwiec_20)
 
 ### 2020
+- [Arkusz CKE Maj](https://arkusze.pl/maturalne/informatyka-2021-maj-matura-rozszerzona-2.pdf)
+- [Rozwiązania CKE Maj 2021](CKE_Maj_21)
 - [Arkusz CKE Czerwiec](https://arkusze.pl/maturalne/informatyka-2021-czerwiec-matura-rozszerzona-2.pdf)
 - [Rozwiązania CKE Czerwiec 2021](CKE_Czerwiec_21)
 
