@@ -37,6 +37,8 @@ Zbiór z którego korzystałem --> [Zbiór zadań](https://github.com/MrSuspecto
 ### 2019
 - [Arkusz CKE Maj](https://arkusze.pl/maturalne/informatyka-2019-maj-matura-rozszerzona-2.pdf)
 - [Rozwiązania CKE Maj 2019](CKE_Maj_19)
+- [Arkusz CKE Czerwiec](https://arkusze.pl/maturalne/informatyka-2019-czerwiec-matura-rozszerzona-2.pdf)
+- [Rozwiązania CKE Czerwiec 2019](CKE_Czerwiec_19)
 
 ### 2020
 - [Arkusz CKE Czerwiec](https://arkusze.pl/maturalne/informatyka-2020-czerwiec-matura-rozszerzona-2.pdf)
