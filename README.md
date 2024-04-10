@@ -59,6 +59,8 @@ Zbiór z którego korzystałem --> [Zbiór zadań](https://github.com/MrSuspecto
 - [Rozwiązania CKE Czerwiec 2021](CKE_Czerwiec_21)
 
 ### 2022
+- [Arkusz CKE Czerwiec](https://arkusze.pl/maturalne/informatyka-2022-czerwiec-matura-rozszerzona-2.pdf)
+- [Rozwiązania CKE Czerwiec 2022](CKE_Czerwiec_22)
 - [Arkusz CKE Grudzień](https://arkusze.pl/maturalne/informatyka-2022-grudzien-probna-rozszerzona.pdf)
 - [Rozwiązania CKE Grudzień 2022](CKE_Gru_22)
 
