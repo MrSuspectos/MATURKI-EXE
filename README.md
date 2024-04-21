@@ -19,6 +19,9 @@ Zbiór z którego korzystałem --> [Zbiór zadań](https://github.com/MrSuspecto
 - [Zadanie 76 Szyfr](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad%2076%20(Szyfr))
 - [Zadanie 86 Wybory](https://github.com/MrSuspectos/MATURKI-EXE/tree/main/Zbi%C3%B3r%20zada%C5%84/zad86)
 
+### 2015
+- [Arkusz CKE Maj](https://arkusze.pl/maturalne/informatyka-2015-maj-matura-rozszerzona-2.pdf)
+- [Rozwiązania CKE Maj 2015](CKE_Maj_15)
 
 ### 2016
 - [Arkusz CKE Maj](https://arkusze.pl/maturalne/informatyka-2016-maj-matura-rozszerzona-2.pdf)
