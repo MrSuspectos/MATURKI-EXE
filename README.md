@@ -22,6 +22,8 @@ Zbiór z którego korzystałem --> [Zbiór zadań](https://github.com/MrSuspecto
 ### 2015
 - [Arkusz CKE Maj](https://arkusze.pl/maturalne/informatyka-2015-maj-matura-rozszerzona-2.pdf)
 - [Rozwiązania CKE Maj 2015](CKE_Maj_15)
+- [Arkusz CKE Czerwiec](https://arkusze.pl/maturalne/informatyka-2015-czerwiec-matura-rozszerzona-2.pdf)
+- [Rozwiązania CKE Czerwiec 2015](CKE_Czerwiec_15)
 
 ### 2016
 - [Arkusz CKE Maj](https://arkusze.pl/maturalne/informatyka-2016-maj-matura-rozszerzona-2.pdf)
